@@ -5,7 +5,7 @@ namespace Sisus
 	/// <example>
 	/// <code>
 	/// using System;
-	/// using static Sisus.Init.FlagsValues;
+	/// using static Sisus.FlagsValues;
 	/// 
 	/// [Flags]
 	/// public enum MyEnum
